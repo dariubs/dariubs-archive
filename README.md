@@ -1,3 +1,4 @@
-Hi 👋
+Hey , I'm Dariush
 
-I'm Dariush. I'm working on [jaryan](https://jaryan.io).
+I ❤️ freedom, free software and science. 
+I work at [dejle](https://github.com/dejle).
